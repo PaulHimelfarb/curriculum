@@ -2533,6 +2533,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Yi Hao's Solution (Easy)](https://github.com/yihaot/google-homepage) - [View in Browser](https://yihaot.github.io/google-homepage/)
 * [Jed Pulley's Solution (Easy)](https://github.com/cardboardkungfu/google-homepage) - [View in Browser](https://cardboardkungfu.github.io/google-homepage/)
 * [Doskzorak's Solution (Easy)](https://github.com/doskzorak/google-homepage)
+* [Paul's Solution (Easy).] (https://github.com/PaulHimelfarb/google-homepage) - [View in Browser] (https://https://paulhimelfarb.github.io/google-homepage/)
 </details>
 
 ### Additional Resources
